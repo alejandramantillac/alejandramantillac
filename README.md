@@ -1,24 +1,60 @@
+
+
 <h1 align="center">Hi there, I'm Alejandra Mantilla 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/alejandramantillac">
+    <img src="https://komarev.com/ghpvc/?username=alejandramantillac&color=blueviolet&style=flat-square" alt="Profile views" />
+  </a>
+</p>
+
+---
 
 ### 🌟 About Me
 
-- 🎓 I am a **Systems Engineering student** at Icesi's University.
+- 🎓 I am a **Systems Engineering student** at Universidad Icesi.
 - 🏙️ I am 22 years old.
 - 📺 I love watching series, especially **medical dramas** and **Korean dramas**.
 - 🎮 In my free time, I enjoy playing **video games**.
 - 🌱 I am constantly learning and expanding my skill set.
 - 🤔 Pronouns **She/Hers**
 
+---
+
 ### 💻 Technologies & Tools
 
-- **Languages**: HTML, CSS, JavaScript, Python, Java
-- **Frameworks/Libraries**: Node.js, React.js
-- **IDEs**: Visual Studio Code, NetBeans, Sublime Text
+<p align="center">
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+  </a>
+</p>
+
+---
 
 ### 🌐 Languages
 
 - **Native**: Spanish
 - **Intermediate**: English
+
+---
 
 ### 📈 GitHub Stats
 
@@ -27,6 +63,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandramantillac&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+---
+
 ### 🔗 Connect with Me
 
 <p align="center">
@@ -34,6 +72,8 @@
   <a href="https://www.instagram.com/alejamantillac/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:alejamantillac@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+---
 
 ### 📊 Visitor Count
 
@@ -46,18 +86,17 @@
 ### 📂 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/alejandramantillac/repo1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandramantillac&repo=repo1&theme=radical" alt="Repo 1"/></a>
-  <a href="https://github.com/alejandramantillac/repo2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandramantillac&repo=repo2&theme=radical" alt="Repo 2"/></a>
+  <a href="https://github.com/alejandramantillac/online-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandramantillac&repo=online-shop&theme=radical" alt="Online Shop"/></a>
+  <a href="https://github.com/alejandramantillac/nuclear-throne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandramantillac&repo=nuclear-throne&theme=radical" alt="Nuclear Throne"/></a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandramantillac&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
+--- 
 <p align="center">
-  <em>"Strive for continuous improvement, instead of perfection." - Kim Collins</em>
+  <em>💬 "The best way to predict the future is to invent it." - Alan Kay </em>
 </p>
 
 ---
