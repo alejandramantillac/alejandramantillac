@@ -24,6 +24,12 @@
 ### 💻 Technologies & Tools
 
 <p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  </a>
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
@@ -33,17 +39,17 @@
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+  </a>
+   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/> 
+   </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   </a>
 </p>
 
@@ -86,8 +92,12 @@
 ### 📂 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/alejandramantillac/online-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandramantillac&repo=online-shop&theme=radical" alt="Online Shop"/></a>
-  <a href="https://github.com/alejandramantillac/nuclear-throne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandramantillac&repo=nuclear-throne&theme=radical" alt="Nuclear Throne"/></a>
+<a href="https://github.com/alejandramantillac/kuki-social-network-front">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandramantillac&repo=kuki-social-network-front&theme=radical" alt="Kuki Social Network Front"/>
+</a>
+<a href="https://github.com/ICESI-PI1-2024A-G1/proyecto-t3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ICESI-PI1-2024A-G1&repo=proyecto-t3&theme=radical" alt="Proyecto T3"/>
+</a>
 </p>
 
 <p align="center">
