@@ -13,7 +13,7 @@
 ### 🌟 About Me
 
 - 🎓 I am a **Systems Engineering student** at Universidad Icesi.
-- 🏙️ I am 23 years old.
+- 🏙️ I am 24 years old.
 - 📺 I love watching series, especially **medical dramas** and **Korean dramas**.
 - 🎮 In my free time, I enjoy playing **video games**.
 - 🌱 I am constantly learning and expanding my skill set.
