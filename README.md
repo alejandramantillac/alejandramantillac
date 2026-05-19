@@ -1,114 +1,119 @@
-
-
-<h1 align="center">Hi there, I'm Alejandra Mantilla 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=Alejandra%20Mantilla&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Systems%20Engineering%20Student&descAlignY=62&descSize=20"/>
 
 <p align="center">
-  <a href="https://github.com/alejandramantillac">
-    <img src="https://komarev.com/ghpvc/?username=alejandramantillac&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+full-stack+solutions+end-to-end;From+UI+to+servers+%E2%80%94+I+own+the+whole+stack;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maria-alejandra-mantilla/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/alejamantillac/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:alejamantillac@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=alejandramantillac&color=blueviolet&style=flat-square"/>
 </p>
 
 ---
 
-### 🌟 About Me
+### About Me
 
-- 🎓 I am a **Systems Engineering student** at Universidad Icesi.
-- 🏙️ I am 24 years old.
-- 📺 I love watching series, especially **medical dramas** and **Korean dramas**.
-- 🎮 In my free time, I enjoy playing **video games**.
-- 🌱 I am constantly learning and expanding my skill set.
-- 🤔 Pronouns **She/Hers**
+I'm a **FullStack Developer** and **Systems Engineering student** at Universidad Icesi. I build software across the full stack — from responsive UIs to backend APIs, databases, and server infrastructure.
+
+- Currently deepening expertise in **Go** and distributed systems
+- Comfortable with Linux environments, container orchestration, and server setup
+- Native Spanish speaker · Intermediate English · She/Her
+- 📺 Medical & Korean dramas · 🎮 Gamer
 
 ---
 
-### 💻 Technologies & Tools
+### Tech Stack
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>Core Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,java,js,go&theme=dark"/>
+    </td>
+    <td align="center" width="33%">
+      <b>UI & Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
+    </td>
+    <td align="center" width="33%">
+      <b>Server & APIs</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,spring,django&theme=dark"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <b>Data Storage</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"/>
+    </td>
+    <td align="center" width="33%">
+      <b>Infrastructure</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,linux&theme=dark"/>
+    </td>
+    <td align="center" width="33%">
+      <b>Workflow & Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub Trophies
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
-  </a>
-   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/> 
-   </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=alejandramantillac&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
 
-### 🌐 Languages
-
-- **Native**: Spanish
-- **Intermediate**: English
-
----
-
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandramantillac&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandramantillac&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=alejandramantillac&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandramantillac&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### Featured Repositories
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/maria-alejandra-mantilla/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/alejamantillac/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:alejamantillac@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
----
-
-### 📊 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alejandramantillac&color=brightgreen" alt="Visitors" />
-</p>
-
----
-
-### 📂 Featured Repositories
-
-<p align="center">
-<a href="https://github.com/alejandramantillac/kuki-social-network-front">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandramantillac&repo=kuki-social-network-front&theme=radical" alt="Kuki Social Network Front"/>
-</a>
-<a href="https://github.com/ICESI-PI1-2024A-G1/proyecto-t3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ICESI-PI1-2024A-G1&repo=proyecto-t3&theme=radical" alt="Proyecto T3"/>
-</a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandramantillac&theme=radical" alt="GitHub Streak" />
-</p>
-
---- 
-<p align="center">
-  <em>💬 "The best way to predict the future is to invent it." - Alan Kay </em>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/alejandramantillac/kuki-social-network-front">
+        <img src="https://img.shields.io/badge/kuki--social--network--front-7928CA?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/github/languages/top/alejandramantillac/kuki-social-network-front?style=flat-square&color=A855F7"/>
+      <img src="https://img.shields.io/github/stars/alejandramantillac/kuki-social-network-front?style=flat-square&color=FF0080"/>
+      <img src="https://img.shields.io/github/last-commit/alejandramantillac/kuki-social-network-front?style=flat-square&color=blueviolet"/>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/ICESI-PI1-2024A-G1/proyecto-t3">
+        <img src="https://img.shields.io/badge/proyecto--t3-7928CA?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/github/languages/top/ICESI-PI1-2024A-G1/proyecto-t3?style=flat-square&color=A855F7"/>
+      <img src="https://img.shields.io/github/stars/ICESI-PI1-2024A-G1/proyecto-t3?style=flat-square&color=FF0080"/>
+      <img src="https://img.shields.io/github/last-commit/ICESI-PI1-2024A-G1/proyecto-t3?style=flat-square&color=blueviolet"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h4 align="center">Thank you for visiting my profile! 😊</h4>
+<p align="center">
+  <em>"The best way to predict the future is to invent it." — Alan Kay</em>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=120&section=footer"/>
