@@ -21,7 +21,7 @@
 
 ### About Me
 
-I'm a **FullStack Developer** and **Systems Engineering student** at Universidad Icesi. I build software across the full stack — from responsive UIs to backend APIs, databases, and server infrastructure.
+I'm a **FullStack Developer** and **Systems Engineering** at Universidad Icesi. I build software across the full stack — from responsive UIs to backend APIs, databases, and server infrastructure.
 
 - Currently deepening expertise in **Go** and distributed systems
 - Comfortable with Linux environments, container orchestration, and server setup
